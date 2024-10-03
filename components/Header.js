@@ -4,7 +4,7 @@ export default function Header() {
   return (
     <header>
       <h1 className="text-4xl font-bold mb-4 py-16">
-        <Link href="/">Newspaper Site</Link>
+        <Link href="/">Newspaper Site Updated</Link>
       </h1>
       <nav className="flex gap-4 border-t border-b">
         <Link className="p-4" href="/">
